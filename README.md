@@ -10,12 +10,12 @@ This was done on Mac OS X El Capitan
 2. cd baby-shark-test
 
 ## The exercise
-Under the assets directory is a subset of folders 1-10.
-In each of these folders is an asset in the form of a jpeg (the files are qctually empty).
-The (pretend) assets are incorrectly named and you need to rename them to their correct values.
-In baby-sharks.csv are the corresponding folder names, incorrect names and correct names per row.
-Your task is to write a script to rename the assets to their correct 'baby' names (because the pretend assests are really pictures of cute babies not nasty sharks)
-Solve this using either Bash or Python. You can use Powershell but beware of the encoding of the csv file.
+Under the assets directory is a subset of folders 1-10.  
+In each of these folders is an asset in the form of a jpeg (the files are qctually empty).  
+The (pretend) assets are incorrectly named and you need to rename them to their correct values.  
+In baby-sharks.csv are the corresponding folder names, incorrect names and correct names per row.  
+Your task is to write a script to rename the assets to their correct 'baby' names (because the pretend assests are really pictures of cute babies not nasty sharks)  
+Solve this using either Bash or Python. You can use Powershell but beware of the encoding of the csv file.  
 
 ### Solution
 There are two solutions included in the repository.
