@@ -19,8 +19,8 @@ Solve this using either Bash or Python. You can use Powershell but beware of the
 
 ### Solution
 There are two solutions included in the repository:   
-solution.sh
-solution.py
+solution.sh  
+solution.py  
 
 ### Resetting the exrecise
 There are two shell scripts. One to delete all of the assets and one to create all of the assets should you need to.
